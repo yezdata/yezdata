@@ -1,7 +1,8 @@
 ## Welcome to my GitHub! ⚡
 
 - 🌱 I’m currently studying Mathematical and Statistical Methods in Economics at Masaryk University.
-- 🔭 Now working on these personal projects:
+- 🔭 Now working on these projects:
+  - **Agentic RAG system** for National Bank of Slovakia - private🤫 (atleast for now)
   - **[FinFetcher](https://github.com/eolybq/finfetcher)** is an end-to-end Python solution available through PyPI that addresses market data inconsistency. It functions as a robust `yfinance` wrapper designed to clean OHLC data by removing incomplete candles—a common issue when fetching data while markets are active. The package natively manages various asset types (equities, cryptocurrencies, forex, and ETFs) and their respective timezones. Furthermore, it accurately calculates the date of the following trading session, accounting for specific market opening schedules to ensure data continuity.
   - [Financial Volatility Forecaster](https://github.com/eolybq/financial_volatility_forecaster) is an End-to-End Quantitative Pipeline FastAPI project, which creates endpoint for real-time volatility predictions for any ticker available in Yahoo Finance. Endpoint /predict/{ticker} trains simple but reliable GARCH model on last 4 year data for chosen ticker, returns prediction for tommorow and store the prediciton in Neon.tech PostgreSQL database. Stored predicitons are then used for backwards manual evaluation. The project uses Docker to containerize application to be live deployed on HuggingFace Spaces.
 
