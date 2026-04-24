@@ -5,7 +5,7 @@
   - **Agentic RAG system** for National Bank of Slovakia - private🤫 (atleast for now)
   - New ML-based Economic Uncertainty Index methodology, as NLP research assistant.
   
-  - [EmCoder](https://github.com/yezdata/emcoder) which is Transformer-based (encoder-only) and Bayesian MC Dropout Emotion Recognition model created from scratch. The architecture has 2 phases: Pretraining on openwebtext as MLM task to train the encoder, Finetuning on goEmotions as Classification task to train the Classifier Head.
+  - [EmCoder](https://github.com/yezdata/emcoder) which is Transformer-based (encoder-only) and Bayesian MC Dropout Emotion Recognition model created from scratch. The architecture has 2 phases: Pretraining on openwebtext as MLM task to train the encoder, Finetuning on goEmotions as Classification task to train the MC Dropout Classifier Head.
 
 
 
