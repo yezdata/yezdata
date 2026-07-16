@@ -2,11 +2,9 @@
 
 - 🌱 I’m currently studying Mathematical and Statistical Methods in Economics at Masaryk University.
 - 🔭 Now working on these projects:
-  - **Agentic RAG system** for National Bank of Slovakia - private🤫 (atleast for now)
-  - New ML-based Economic Uncertainty Index methodology, as NLP research assistant.
+  - ML Engineer (research grant): Emotion Recognition and sentiment classification ML model development.
   
-  - [EmCoder](https://github.com/yezdata/emcoder) which is Transformer-based (encoder-only) and Bayesian MC Dropout Emotion Recognition model created from scratch. The architecture has 2 phases: Pretraining on openwebtext as MLM task to train the encoder, Finetuning on goEmotions as Classification task to train the MC Dropout Classifier Head.
-
+  - [PyDoctor](https://github.com/yezdata/pydoctor) which is CLI utility providing docstring insertion into python codebase. Python files are first parsed using the libCST library to build target code with relevant context. PyDoctor then uses local custom finetuned Instruct LLM to generate docstrings and then atomically writes the file back with the changes. The cli also contains standard QoL options such as per file ignore, per code block ignore, --dry-run (with difflib logs), change the target code blocks (with odcstring, without, all)...
 
 
 
