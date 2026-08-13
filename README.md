@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Mathematical and Statistical Methods in Economics at Masaryk University.
 - 🔭 Now working on these projects:
-  - **ML Engineer** (research grant): Emotion Recognition and sentiment classification ML model development.
+  - **ML Engineer** (research grant): Emotion Recognition and sentiment classification LLM development.
   
   - [PyDoctor](https://github.com/yezdata/pydoctor), which is CLI utility providing docstring insertion into python codebase. Python files are first parsed using the libCST library to build target code with relevant context. PyDoctor then uses local custom finetuned Instruct LLM to generate docstrings and then atomically writes the file back with the changes. The cli also contains standard QoL options such as per file ignore, per code block ignore, --dry-run (with difflib logs), change the target code blocks (with odcstring, without, all)...
 
